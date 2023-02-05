@@ -1,4 +1,3 @@
-/*20ETCS002080 Mridula G. Narang*/
 /*This is a C program to stimulate the working of an ATM machine using multithreaded approach.*/
 #include <stdio.h>
 #include <stdlib.h>
