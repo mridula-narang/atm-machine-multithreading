@@ -1,4 +1,3 @@
-/*20ETCS002080 Mridula G. Narang*/
 /*This is C program for a multi user ATM machine using sequential approach.*/
 #include <stdio.h>
 #include <time.h>
